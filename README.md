@@ -17,3 +17,13 @@ You can **add, edit, and delete** tasks with a clean UI powered by Bootstrap sty
 - 📱 Responsive design  
 
 ---
+## 📸 Screenshot
+
+- (Add a screenshot of your app UI here)
+
+---
+## 🔧 Built With
+
+- React
+
+- Bootstrap 
